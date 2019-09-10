@@ -8,3 +8,5 @@ Testing Jeckyll favicon...
 
 
 [![IMAGE](sea9.png)](test.md)
+
+[bla](test.md)
